@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 😄 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking for a job to improve myself.
-- ⚡ Fun fact:I want to job for a Software IT Industry.
+- ⚡ A fact:I want to job for a Software IT Industry.
 <!--- 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
